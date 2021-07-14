@@ -1,0 +1,22 @@
+[
+
+	{
+		"title":"Dev To",
+		"description":"I write technical content about web development targeted at beginners",
+		"img":"",
+		"url":"https://dev.to/snickdx"
+	},
+	{
+		"title":"The Code Crusade",
+		"description":"My personal coding blog",
+		"img":"",
+		"url":"https://thecodecrusade.wordpress.com/"
+	},
+	{
+		"title":"GDG Port-of-Spain",
+		"description":"The blog of GDG Port-of-Spain",
+		"img":"",
+		"url":"https://gdgpos.medium.com/"
+	}
+
+]

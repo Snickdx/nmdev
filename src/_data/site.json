@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://nicholasmendez.dev",
+  "author": "Nicholas Mendez",
+  "description": "The personal site of Nicholas Mendez",
+  "title": "NM Dev",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/snickdx"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/snickdx"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/snickdx"
+    }
+  ]
+}

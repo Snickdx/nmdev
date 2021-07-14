@@ -1,0 +1,46 @@
+[
+    {
+        "description": "Member",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/caribdev.webp?alt=media&token=77585438-f198-42de-b496-157632a1cdfd",
+        "social": [
+            {
+                "icon": "fa fa-facebook",
+                "url": "https://www.facebook.com/groups/devcarib/"
+            }
+        ],
+        "url":"https://www.facebook.com/groups/1467473803479649",
+        "title": "Caribbean Developers"
+    },
+    {
+        "description": "President 2013. Advisor",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/uwics.webp?alt=media&token=cb6e3d0a-ea3f-4a0d-9b64-c16c72d60170",
+        "social": [
+            {
+                "icon": "fa fa-facebook",
+                "url": "https://www.facebook.com/groups/Uwi.Computing.Society/"
+            }
+        ],
+        "title": "The UWI Computing Society",
+        "url":"https://linktr.ee/uwics"
+    },
+    {
+        "description": "Chapter Organizer",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/gdgicon.webp?alt=media&token=b253c9d6-fa86-4d7a-9694-e809b8972fd1",
+        "social": [
+            {
+                "icon": "fa fa-facebook",
+                "url": "https://www.facebook.com/gdgpos/"
+            },
+            {
+                "icon": "fa fa-twitter",
+                "url": "https://twitter.com/gdgpos"
+            },
+            {
+                "icon": "fa fa-instagram",
+                "url": "https://instagram.com/gdgpos"
+            }
+        ],
+        "title": "GDG Port-of-Spain",
+        "url":"https://gdg.community.dev/gdg-port-of-spain/"
+    }
+]

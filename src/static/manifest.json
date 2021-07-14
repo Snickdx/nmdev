@@ -1,0 +1,33 @@
+{
+ "name": "Nicholas Mendez",
+ "short_name": "Nick Dev",
+ "start_url": "index.html",
+ "display": "fullscreen",
+ "scope":".",
+ "description":"The personal website of Nicholas Mendez",
+ "orientation": "portrait",
+ "background_color": "white",
+ "theme_color": "#7c3aed",
+ "icons": [
+  {
+   "src": "img/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image/png"
+  },
+  {
+   "src": "img/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image/png"
+  },
+  {
+   "src": "img/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "img/android-icon-512x512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

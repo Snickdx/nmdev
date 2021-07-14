@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Beta application to perform university programme search by subject requirements",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/uwi-programme-catalog.firebaseapp.com_.webp?alt=media&token=22095430-7e92-477d-85fb-3903228e2155",
+        "title": "BeUWI",
+        "url": "https://uwi-programme-catalog.firebaseapp.com/#/search"
+    },
+    {
+        "description": "<p>A nifty app which use's <a href=\"https://www.andersonsingh.com/2018/02/12/exploiting-kfcs-menu-for-optimal-purchases/\">Anderson's Algorithm</a> to optimize your restaurant purchases for better value.</p>",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/fixmehup.firebaseapp.com_.webp?alt=media&token=0cb14b51-cf4c-4a50-bad9-de02786ce585",
+        "title": "Menumizer",
+        "url": "https://fixmehup.firebaseapp.com"
+    },
+    {
+        "description": "A fun little app for me to publish puns, users can subscribe to automated notifications.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/punaday-6e65f.firebaseapp.com_.webp?alt=media&token=c0faa93d-5aee-485b-bc4b-c80f42495d0d",
+        "title": "Pun A Day",
+        "url": "https://punaday-6e65f.firebaseapp.com"
+    },
+    {
+        "description": "A gallery of my fun apps.",
+        "img": "https://firebasestorage.googleapis.com/v0/b/snickdx.appspot.com/o/nmendez.app_.webp?alt=media&token=9943ceb2-695e-4e82-ae02-352dfe04fbd6",
+        "title": "Nicholas Mendez Apps",
+        "url": "https://nmendez.app"
+    }
+]
